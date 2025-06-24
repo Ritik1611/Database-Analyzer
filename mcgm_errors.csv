@@ -1,0 +1,175 @@
+date,ward,zone,subzone,occupancy,main_category,sub_category,tax_code,floor,building_type,fsi_factor,fsi,sddr_rate,age_of_building,metered_unmetered,carpet_area,capital_value,total_tax
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Golf course LND 12,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Golf course LND 12,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Airport - land (a) Land used for movement and parking of air craft including runway and taxing bay LND 13,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Airport - land (a) Land used for movement and parking of air craft including runway and taxing bay LND 13,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land - residential LND 01,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land - residential LND 01,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of open air theatre LND 17,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of open air theatre LND 17,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Race course (a) Land occupied by racing track LND 10,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Race course (a) Land occupied by racing track LND 10,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open air electric sub-station LND 06,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open air electric sub-station LND 06,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land of rehabilitation units available under various redevelopment projects approved by State Govt/ MHADA/MMRDA/ MCGM LND 31,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land of rehabilitation units available under various redevelopment projects approved by State Govt/ MHADA/MMRDA/ MCGM LND 31,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land under reservation (b) Total impermissiblity LND 05,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land under reservation (b) Total impermissiblity LND 05,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Airport - land (b) Any land other than the land covered by entry (a) LND 14,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Airport - land (b) Any land other than the land covered by entry (a) LND 14,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Salt pan LND 07,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Salt pan LND 07,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Race course (b) Land other than the land of racing track LND 11,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Race course (b) Land other than the land of racing track LND 11,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of stadium where tickets are sold for entry LND 16,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of stadium where tickets are sold for entry LND 16,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around weigh bridge LND 09,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around weigh bridge LND 09,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land under reservation (a) Partial impermissiblity LND 04,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land under reservation (a) Partial impermissiblity LND 04,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land covered by Oil Tank LND 22,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land covered by Oil Tank LND 22,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Area of land covered by Oil Tank(Oil Tank Above Ground) LND 36,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Area of land covered by Oil Tank(Oil Tank Above Ground) LND 36,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,"Land of petrol pump / service station / LPG, CNG station / kerosene station LND 19",N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,"Land of petrol pump / service station / LPG, CNG station / kerosene station LND 19",N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around Oil Tank(Oil Tank below ground) LND 37,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around Oil Tank(Oil Tank below ground) LND 37,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land- non residential (a) Commercial LND 02,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land- non residential (a) Commercial LND 02,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Area of land covered by Oil Tank(Oil Tank Below Ground) LND 38,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Area of land covered by Oil Tank(Oil Tank Below Ground) LND 38,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land covered with dilapidated structures not capable for habitation till issuance of IOD LND 33,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land covered with dilapidated structures not capable for habitation till issuance of IOD LND 33,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Water reservoir LND 20,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Water reservoir LND 20,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of stadium where no tickets are sold for entry LND 15,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land of stadium where no tickets are sold for entry LND 15,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land not built upon till issuance of IOD LND 32,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Open land not built upon till issuance of IOD LND 32,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Amusement park LND 18,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Amusement park LND 18,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land- non residential (b) Industrial LND 03,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land- non residential (b) Industrial LND 03,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Quarry LND 08,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Quarry LND 08,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around Oil Tank(Oil Tank above ground) LND 35,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0001,Self Occupied (3001),LAND,Land around Oil Tank(Oil Tank above ground) LND 35,N/A,N/A,N/A,Admissible,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Basement,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Lower Ground floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Upper Ground Floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,Ground Floor,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,1ST,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,2ND,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,3RD,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,4TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,5TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,6TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,7TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,8TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,9TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,10TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,11TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,12TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,13TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,14TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,15TH,Semi Permanent / Kuchha Building including Chawls(2004),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,16TH,RCC Building(2002),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,16TH,RCC Building(2002),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,16TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Metered,50,N/A,N/A
+24/06/2022,C,1,0005,Self Occupied (3001),SHOP/ COMMERCIAL,"Multiplex - If there are more units in part ""D"" COM 90",N/A,16TH,Puca Building excluding Chawls(2003),N/A,N/A,N/A,N/A,Unmetered,50,N/A,N/A
