@@ -1,0 +1,855 @@
+,,,Zone I,
+Sr. No.,WARD, Sr. No.,Name & Address of Building,Building owned by
+,,of Ward,,Municipal / private /
+,,,,Govt
+,,,A WARD,
+1,A,1,"Meher Mansion Cooperage Rd. Coloba, Mum-05",Govt.(BEST)
+2,A,2,"Kalaptaru Chmaber, 6। Nanik Motwani Marg,",Private
+3,A,3,"Vashani Chamber, New Marine Lines, Sir V.T.Marg, Mum-01",Private
+4,A,4,"Nobel Chember, (RPI), House, Janmbhumi Marg, Fort, Mumbai 01",Private
+,,,B WARD,
+5,B,1,"Choti Bibi, Mirza Ali Street, Dongri, Mumbai-400009",Private
+6,B,2,"125, Sheriff Devji Street, Mumbai -400003",Private
+,,,C WARD,
+,,,,Private
+7,C,1,"Haji Ismile Musafir Khana, 24/43, Pakhmodia Street, 16/30, 2nd ",
+,,,"Cooper Street, C S No. 4315, Bhendi Bazar, Mumbai – 03",
+8,C,2,"Salamat House,Saifee Jubli Street, Bhendibazar, Mumbai -03",Private
+,,,D WARD,
+,,,"Pushpkunj Building, C.S. No. 405, of Tardeo Division, Near Jaywant",Private
+9,D,1,"Industrial Estate. Pvt, Madan Mohan Malviya Road, Tardeo Road,",
+,,,Mumbai – 34.,
+,,,"Akhil Bharat Bhavan Compound, C.S. No. 318 of Tardeo Division,",Private
+10,D,2,,
+,,,"Bellasis Road, Mumbai",
+,,,"Ganga – Jamuna Cinema Buiding, Tardeo Circle, Tardeo Road,",Private
+11,D,3,,
+,,,Mumbai – 34,
+,,,"Shalimar Exhibitors, 335, Shalimar House, M.S.Ali Road, Grant road",Private
+12,D,4,,
+,,,East,
+,,,"Nusser House, 20, Mama Parmanand Marg, Opera House, Mumbai",Private
+13,D,5,,
+,,,4,
+14,D,6,"Satyavant Bhavan, Khotachi Wadi, 257, V P Road,Girgaon, M-04",Private
+,,,,Private
+15,D,7,"Lohana Mahaparishad Bhavan Building, 10, 4th Khetwadi lane,",
+,,,"S.V.P.Road, Mumbai 04",
+16,D,8,"S.P.Shed at Chowpatty (W), Babulnath",Municipal
+,,,E WARD,
+,,,"Lambi Cement Chawl, A, Ganesh Hari Parundekar Marg,Byculla",Municipal
+17,E,1,,
+,,,West,
+,,,"Lambi Cement Chawl, A, Ganesh Hari Parundekar Marg,Byculla",Municipal
+18,E,2,,
+,,,West,
+19,E,3,"Momin Pada BIT Chawl No.1 , M.S. Ansari Chawl Byculla West",Municipal
+20,E,4,"Momin Pada BIT Chawl No.2, M.S. Ansari Chawl Byculla West",Municipal
+21,E,5,"Momin Pada BIT Chawl No.3 , M.S. Ansari Chawl Byculla West",Municipal
+22,E,6,"Momin Pada BIT Chawl No.4 , M.S. Ansari Chawl Byculla West",Municipal
+,,,"Triveni Apartment ‘B’ wing, Near Makba Chwal S. Bridge, Mumbai-",Private
+23,E,7,,
+,,,400 011.,
+,,,"Bradbury Mills 51-55,Maulana Azad Road, Nr. Jacob Circle,",Private
+24,E,8,,
+,,,"Agripada, Mumbai– 11.",
+,,,"D. B. Realty, M/s. Bombay Soap Factory, Husaini Baug, Madanpura,",Private
+25,E,9,,
+,,,Mumbai – 08.,
+26,E,10,"43-45, Suttarwali Chawl, Morland Road, Mumbai – 400 008.",Private
+,,,"C.S. no. 795 of Byculla Division, Airawat building, Dr. B. A. Road,",Private
+27,E,11,"Opp. Nappu High School, Mahajanwadi, Kalachowki, Mumbai – 400",
+,,,33,
+,,,Zone II,
+Sr. No.,WARD, Sr. No.,Name & Address of Building,Building owned by
+,,of Ward,,Municipal / private /
+,,,,Govt
+,,,F/South WARD,
+28,F/S,1,"Ganesh Talkies, Dr.B.A.Road",Private
+29,F/S,2,"Kamgar Swa Sadan, Curry Road",Private
+30,F/S,3,"Ganayak C.H.S.(Sahajeevan), Ganesh Gully, Lalbaug",Private
+31,F/S,4,"Ambedkar Bhavan, Dadar E",Private
+32,F/S,5,"Veena Beena Apartment, A.D.Road",Private
+,,,F/North WARD,
+33,F/N,1,"Bldg. No. 1 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+34,F/N,2,"Bldg. No. 2 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+35,F/N,3,"Bldg. No. 3 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+36,F/N,4,"Bldg. No.4 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+37,F/N,5,"Bldg. No.5 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+38,F/N,6,"Bldg. No. 6 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+39,F/N,7,"Bldg. No. 7 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+40,F/N,8,"Bldg. No.8 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+41,F/N,9,"Bldg. No.9 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+42,F/N,10,"Bldg. No.10 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+43,F/N,11,"Bldg. No. 11 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+44,F/N,12,"Bldg. No.12 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+45,F/N,13,"Bldg. No.13 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+46,F/N,14,"Bldg. No.14 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+47,F/N,15,"Bldg. No.15 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+48,F/N,16,"Bldg. No. 16G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+49,F/N,17,"Bldg. No. 17 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+50,F/N,18,"Bldg. No. 18 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+51,F/N,19,"Bldg. No. 19 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+52,F/N,20,"Bldg. No.20 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+53,F/N,21,"Bldg. No.21 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+54,F/N,22,"Bldg. No.22 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+55,F/N,23,"Bldg. No.23 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+56,F/N,24,"Bldg. No.24 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+57,F/N,25,"Bldg. No.25 G.T.B. Ngr. Punjabi Colony, Mum-37",Govt.
+,,,"Shri Gandhiya Mahadev Mandir Samiti's Mataji Temple, Sardar",Private
+58,F/N,26,,
+,,,"Nagar, No. Ravali Hill, Sion Koliwada, Mumbai – 37",
+59,F/N,27,Dhun Villa Annex Bldg.Dadar E,Private
+60,F/N,28,Bhalchandra Bhavan Matunga E,Private
+,,,G/South WARD,
+61,G/S,1,"Marwadi Chawl, Jaggannath Bhatankar Marg,",Municipal
+62,G/S,2,"Khnna House, R.G. Thadani Marg, Worli",Private
+63,G/S,3,Unmesh Bldg.,Private
+64,G/S,4,Seaface House,Private
+65,G/S,5,"Janki Bhavan , Temporary Transits Camp",Private
+66,G/S,6,India Re House,Private
+67,G/S,7,National Bicycle Bldg.,Private
+68,G/S,8,Neeta Bldg.,,Private
+69,G/S,9,Campa Cola Bldg.,,Private
+,,,,G/North WARD,
+,,,"Amrut Mahotsav Vastu Bldg., N.C. Kelkar Rd.,Dadar(W), Mumbai-",,Private
+70,G/N,1,,,
+,,,28 (Gr+1),,
+71,G/N,2,"Girikunj Bldg, L.J. Rd. , Mahim, Mumbai-16 (Gr+3)",,Private
+,,,"30, Rail View Bldg., Senapati Bapat Marg, Opp. Mahim Station,",,Private
+72,G/N,3,,,
+,,,"Mahim, Mum-16",,
+,,,"Burhani Manzil situated at F.P. No.666 , Bori Chawl, Vanjewadi,",,Private
+73,G/N,4,,,
+,,,"Mahim, Mum-16",,
+74,G/N,5,"Khandke Bldg., R.K. Vaidya Marg, Dadar(W), Mumbai-28 (Gr+3)",,Private
+75,G/N,6,"Mangesh Bhuvan CHS Ltd., D.L.Vaidya Rd., Dadar(W), Mum-28",,Private
+,,,"Culcutta Confectionery & Shitaladevi Industrial Estate, 140,",,Private
+76,G/N,7,,,
+,,,"Shitaladevi Temple Rd., Mahim , Mumbai-16(Gr+1)",,
+,,,"Gopi Tank Transist Camp, F P No 15, TPS II, Mahim Division,",,Municipal
+77,G/N,8,,,
+,,,Mumbai,,
+,,,"Raut Wadi, F P No 13, TPS III,J K Sawant Road,Dadar West,",,Municipal
+78,G/N,9,,,
+,,,Mumbai,,
+79,G/N,10,"Khan Saheb Wadi, Load Bearing Structure , G+1 Bldg.",,Municipal
+,,,,Zone III,
+Sr. No.,WARD, Sr. No.,,Name & Address of Building,Building owned by
+,,of Ward,,,Municipal / private /
+,,,,,Govt
+,,,,H/East WARD,
+80,H/E,1," Udyog Bhavan, Shivaji Nagar, Ind.Area",,Private
+81,H/E,2,"House No.41, Kalina Village",,Private
+82,H/E,3,"D'souza Mansion, Prabhat Colony",,Private
+83,H/E,4," Krishna Kunj, Golibar Road, Santacruz E",,Private
+84,H/E,5,Kalika,"Niwas , Nehru Road, Santacruz E",Private
+85,H/E,6,"Firdos Manzil, Near Vakola Masjid",,Private
+86,H/E,7,"Happy House No.3, Opposit vakola market",,Private
+87,H/E,8,"Auguiar Villa, old CST road",,Private
+88,H/E,9,Umar Manzil,,Private
+89,H/E,10,"Mathuradas Colony Build. No.5,",,Private
+90,H/E,11,"Mathuradas Colony Build. No.10,",,Private
+91,H/E,12,"Mathuradas Colony Build. No.11,",,Private
+92,H/E,13,"Mathuradas Colony Build. No.12,",,Private
+93,H/E,14,Bhori Build. / Gudluck House,,Private
+94,H/E,15,Lata Kunj,,Private
+95,H/E,16,Valentino Building,,Private
+96,H/E,17,"Rathod Mansion, kalina kurla road",,Private
+97,H/E,18,Air View Building,,Private
+98,H/E,19,"Om Niwas, road no.2, prabhat colony",,Private
+99,H/E,20,"Divine Grace, near yogo institute, vakola santacruz east",,Private
+100,H/E,21,Noami Ark,,Private
+101,H/E,22,Khairunnisa Manzil A) & C),,Private
+102,H/E,23,Khairunnisa Manzil D),,Private
+103,H/E,24,Belim House,,Private
+104,H/E,25,Ganga Gobind CHSL.,,,,,,,,,Private
+105,H/E,26,Khairunnisa Manzil B),,,,,,,,,Private
+106,H/E,27,Heera Building,,,,,,,,,Private
+,,,,,,H/West WARD,,,,,,
+,,,"Juhu Co. Op. Soc., Plot No. 20 to 23, Linking Road Ext., Near",,,,,,,,,
+107,H/W,1,,,,,,,,,,
+,,,"Shastri Nagar,Santacruz (W) Mumbai–400054",,,,,,,,,
+108,H/W,2,"Gulab baug building, Station road, Santacruz(W)",,,,,,,,,Private
+,,,"K.B.Lal Industrial estate, Nr Shastri Nagar, Linking road Ext.",,,,,,,,,Private
+109,H/W,3,,,,,,,,,,
+,,,Santacruz West,,,,,,,,,
+,,,"Radha Raman Kunj, C & D wing CTS No.H280 to H285,293,H529",,,,,,,,,Private
+110,H/W,4,"And H549 of Village Danda, Station Road,Sant acruz West, Mumbai,",,,,,,,,,
+,,,"Maharashtr a 400054, India.",,,,,,,,,
+111,H/W,5,"Navchetana CHS, Juhu Tara Road, Santacruz W, Mumbai 54",,,,,,,,,Private
+,,,Prashant,"Basin,",Plot,No.,"61,",Daulat,"Nagar,",Relief,"Road,",Private
+112,H/W,6,,,,,,,,,,
+,,,"Santacruz( W), Mumbai 400 054, H West Ward",,,,,,,,,
+113,H/W,7,"Bharatkunj, PM road, Santacruz (W), Mumbai-54",,,,,,,,,Private
+114,H/W,8,"Khar Samta CHS Ltd., Plot No. 675, 20th Rd., Khar (W), Mumbai-52",,,,,,,,,Private
+115,H/W,9,"‘Vinod Villa’, 10th Road, Khar(W)",,,,,,,,,Private
+,,,"Laxmi Bhuvan, (Near Sai Sadan), CTS No. E/557 of village Bandra,",,,,,,,,,Private
+116,H/W,10,,,,,,,,,,
+,,,"9th & 11th Road jn, Khar(W), Mumbai 400 052, H/ West Ward.",,,,,,,,,
+117,H/W,11,"Pearl palace, plot no 41-A, S V road, Santacruz west, Mumbai-5",,,,,,,,,Private
+,,,"Makhale House, House no. 70, Madhala Pada, Khardanda, Khar(W),",,,,,,,,,Private
+118,H/W,12,,,,,,,,,,
+,,,Mum-52,,,,,,,,,
+,,,"Narayan Niwas, House No.16. Plot No. 479/16,",,,,,,,Behind Danda,,Private
+119,H/W,13,,,,,,,,,,
+,,,"Police chowki,Bazar Galli, Khar –Danda Road, Ram Mandir",,,,,,,,,
+,,,"House No.102, Mahadev Niwas, Madhla Pada, Danda Bakery Lane,",,,,,,,,,Private
+120,H/W,14,"Near Dandekar Market, Khar Danda, Khar West, Sai Baba Nagar,",,,,,,,,,
+,,,"Foman Nagar, Koliwada, Khar Danda, Mumbai- 400052",,,,,,,,,
+,,,"House No.504, Ram Mandir Rd, Patil Pada, Danda Village, Khar",,,,,,,,,Private
+121,H/W,15,,,,,,,,,,
+,,,"Danda, Mumbai",,,,,,,,,
+122,H/W,16,"House No.169, SB Patil Rd, Foman Nagar, Koliwada, Khar Danda",,,,,,,,,Private
+123,H/W,17,"Azim building, 40th road, Old Khar, Mum – 52",,,,,,,,,Private
+,,,"Ramji Raja Chawl, 30, S.V. road, Next to HP petro pump, Old Khar,",,,,,,,,,Private
+124,H/W,18,,,,,,,,,,
+,,,Mum – 52,,,,,,,,,
+125,H/W,19,"Lynmara, CTS No. C/1491, Sherly Rajan, Bandra(W).",,,,,,,,,Private
+126,H/W,20,"Sai Ashram, Pali Mala Road, Bandra(W)",,,,,,,,,Private
+127,H/W,21,"Meenakshi apartment, 26th Road, Bandra West, Mumbai, 400050",,,,,,,,,Private
+,,,"Fantasia bldg, CTS no C/1224. Village Bandra, Sherly Rajan,",,,,,,,,,Private
+128,H/W,22,,,,,,,,,,
+,,,"Bandra(W), Mumbai-5",,,,,,,,,
+129,H/W,23,"24 North,Jai bharat society, 3rd road Khar(W),Mumbai-52",,,,,,,,,Private
+130,H/W,24,"325, Siffin apartments CHSL, Dr Ambedkar road, Bandra (W)",,,,,,,,,Private
+,,,"CTS no F/600, 601 , 602 (Pali village structure), Pali naka, Dr",,,,,,,,,Private
+131,H/W,25,,,,,,,,,,
+,,,"Ambedkar road,Bandra(W)",,,,,,,,,
+,,,"Delphin house, CTS no. C/1481,survey no.273 of Village Bandra,",,,,,,,,,Private
+132,H/W,26,,,,,,,,,,
+,,,"Carter road, Khar west, Mumbai- 400052",,,,,,,,,
+133,H/W,27,"Rabiya Mansion, 44A Chimbai road, Bandra (W) Mum – 50",,,,,,,,,Private
+,,,"Our Sweet Home CHSL, Dr Ambedkar road, B wing, Bandra West,",,,,,,,,,Private
+134,H/W,28,,,,,,,,,,
+,,,"Mumbai, 400050",,,,,,,,,
+135,H/W,29,"Lucky Villa-2, New Kantwadi Road, Bandra West, Mumbai,400050.",,,,,,,,,Private
+136,H/W,30,"Rafiqa building, New Kantwadi Road, Bandra West, Mumbai-",,,,,,,,,Private
+,,,400050,,,,,,,,,
+137,H/W,31,"Leena Apartment,41, Rebello Road, Bandra West,Mumbai,400050.",,,,,,,,,Private
+,,,"Toilet (Gr+1) of Chappra building, Gurunanak Marg,Bandra",,,,,,,,,Private
+138,H/W,32,,,,,,,,,,
+,,,"West,Mumbai -50.",,,,,,,,,
+,,,"Vijay House, Neelu Estate,building 95,Hill road, Rajaram wadi,",,,,,,,,,Private
+139,H/W,33,,,,,,,,,,
+,,,"Bandra west,",,,,,,,,,
+,,,"Serenity building’,CTS 1037-b, 9th Road, Almeida Park,Bandra(W),",,,,,,,,,Private
+140,H/W,34,,,,,,,,,,
+,,,Mumbai 400 050.,,,,,,,,,
+141,H/W,35,"263 C, Bazar road, Karai chawl, Bandra(W), Mum – 50",Private
+142,H/W,36,"Hazare Bhuvan, Haji Mohd Noora lane, Bandra(W), Mum – 50",Private
+143,H/W,37,"Ahmed Baigs Cottage, 91 C, Bazar Road, Bandra (W), Mumbai-50",Private
+144,H/W,38,"Khwaja building, Bazar Road, Bandra(W)",Private
+,,,"Shree Chandraprabhu Jain Derasar Trust building -1, Jain Mandir",Private
+145,H/W,39,,
+,,,"Road, Bandra(W)",
+,,,"Shree Chandraprabhu Jain Derasar Trust building -2, Jain Mandir",Private
+146,H/W,40,,
+,,,"Road, Bandra(W)",
+,,,"85, Bazar Rd, Near BT market, Bandra West, Mumbai,Maharashtr a",Private
+147,H/W,41,,
+,,,"400050, India",
+,,,Haji Mohammed Noora building CTS No 216 Haji mohamme d,Private
+148,H/W,42,,
+,,,"noora lane, Bandra West,",
+149,H/W,43,"Faraz Apartment, Bazar Rd, Santosh Nagar, Bandra West",Private
+150,H/W,44,"Maharashtra Nagar(1), BMC chawl no.1",Municipal
+151,H/W,45,"Maharashtra Nagar(1), BMC chawl no.2",Municipal
+152,H/W,46,"Maharashtra Nagar(1), BMC chawl no.3",Municipal
+153,H/W,47,"Maharashtra Nagar(1), BMC chawl no.4",Municipal
+154,H/W,48,"Maharashtra Nagar(1), BMC chawl no.8",Municipal
+155,H/W,49,"Shastri nagar, BMC chawl no. 6",Municipal
+156,H/W,50,"Shastri nagar, BMC chawl no. 7",Municipal
+157,H/W,51,"Circular bldgn , s v road , Bandra west",Municipal
+,,,K/E WARD,
+158,K/E,1,"Parvati Niwas, Mahant Road, Vile Parle (E), Mumbai.",Private
+159,K/E,2,"Chandra mahal, Dinesh Chedda & Others,",Private
+,,,"Saraf Bhuvan, Shri. Master Kshitij Torka, 24, Tilak Mandir Road,",Private
+160,K/E,3,,
+,,,"Vile Parle (E), Mumbai.",
+161,K/E,4,"Punjabi Colony, Mahant Road, Vile Parle (E)",Private
+,,,"Kutbi Manzil and Nagarwala Building Opp. Ciggarette Factory,",Private
+162,K/E,5,,
+,,,"Sahar Road, Chakala, Andheri (E)",
+,,,"Vittal Kutir, sant cokha mela chowk, Shradhanan Road, Near Saibaba",Private
+163,K/E,6,,
+,,,"Temple, Vileparle (E), mumbai - 57.",
+,,,"Evergreen CHSL, 402, TPSV, N.P. Thakkar Road, Vile Parle (E),",Private
+164,K/E,7,,
+,,,Mumbai - 57,
+,,,"Mani Bhuvan Shradhanand road, Near sai baba Temple,Vile Parle E,",Private
+165,K/E,8,,
+,,,Mumbai-57,
+166,K/E,9,"Rane Sadan , Natvar nagar road no-5, Jogeshwari (E), Mumbai",Private
+167,K/E,10,"Parle Gurudev, CHS, Sankar Jyot, 76, Chittaranjan, Vile Parle (E).",Private
+168,K/E,11,"Prabhu Niwas, Chittaranjan Road, Vile Parle (E)",Private
+169,K/E,12,"Mani Bhuvan, M.G. Road, Vile Parle (E)",Private
+,,,"Prabhas Bldg., Plot No. 187, Village Esmalia, Jogeshwri (E),",Private
+170,K/E,13,,
+,,,Mumbai – 60,
+,,,"Ahilya Niwas, Shivaji Nagar, Shahajiraje Marg, Vileparle (E),",Private
+171,K/E,14,,
+,,,Mumbai – 57,
+,,,"Dalvi Plaza, CTS No. 167/3 of Village Sahar, Om Nagar Chowk,",Private
+172,K/E,15,,
+,,,Andheri (E),
+173,K/E,16,"Krishna Bhavan, Old Nagardas Road, Andheri (E), Mumbai 69",Private
+174,K/E,17,"Khambati Niwas, Jn. Of Neharu Road & Dixit Road, Vileparle (E),",Private
+175,K/E,18,"Vora Estate, Vileparle (E)",Private
+176,K/E,19,"Narsinha Prasad, Vileparle (E)",Private
+177,K/E,20,"Narsinha Prasad Annex, Vileparle (E)",Private
+,,,"Tejas Bhavan, N.P. Thakkar Road, Near Rajpuria Baug Hall,",Private
+178,K/E,21,,
+,,,"Vileparle (E), Mumbai 37",
+179,K/E,22,"Moti Madhav ChS ltd, Ram Mandir Road, Vileparle (E)",Private
+180,K/E,23,"Vhanvati Banglow, FP No. 469, Azad Road, Vileparle (E)",Private
+181,K/E,24,"Manek Niwas, 36, Hanuman Road, Vileparle (E)",,Private
+182,K/E,25,"Halwai Bunglow, Sahar Road, Andheri East",,Private
+183,K/E,26,"Gokhale Bungalow, Ram Mandir Road, Vileparle E, Mumbai57",,Private
+,,,"Nagarwala Building, Opp Cigarete Factory ,Sahar Road Chakala",,Private
+184,K/E,27,,,
+,,,Andheri E,,
+,,,"Pushpa Yatan Vyas Building, Plot No.02, CTS NO.194 & 194/1",,Private
+185,K/E,28,,,
+,,,"Ismaliya Village H.F. Society Road, Jogeshwari E, Mumbai 60",,
+186,K/E,29,"Alankar Buidling, Near Andheri Station , Sahar Road, Mumbai 59",,Private
+187,K/E,30,"Narayani Bhavan, J B Nagar , Andheri East,",,Private
+188,K/E,31,"Vithal Bhavan, M C Chogle Marg, Andheri East Mubai-57",,Private
+,,,Zone IV,,
+Sr. No.,WARD, Sr. No.,Name & Address of Building,,Building owned by
+,,of Ward,,,Municipal / private /
+,,,,,Govt
+,,,K/West WARD,,
+,,,"Babaya Nagar Building (62), Ahmed Compound, Behind Yadav",,Private
+189,K/W,1,,,
+,,,"Dairy, S.V. Road, Mumbai-102.Babaya Nagar Building (62),",,
+,,,"Razia Manzil (62) CTS No. 528, 258/1,2,3, 4,5, Village Oshiwara,",,Private
+190,K/W,2,,,
+,,,"S.V. Road, Jogeshwari (W), Mumbai- 102",,
+191,K/W,3,"Sayad Mazil, (64) Shakar Road, Jogeshwari(W), Mumbai 400 102.",,Private
+,,,"Mistry House and Shekhawati (64)Mension, Near Kevni Pada,",,Private
+192,K/W,4,,,
+,,,"Jogeshwari (W), Mumbai- 400 102.",,
+,,,"Kunj Niwas building no. 1,2 & 3, (64) CTS No. 22, 75(part),75/15 to",,Private
+193,K/W,5,"35 Village Bandivali along Sahakar Road, Jogeshwari(W), Mumbai",,
+,,,400 102.,,
+,,,"Tapodhan CHSL.,(60)4 Bungalow, J. P. Road, Andheri (W),",,Private
+194,K/W,6,,,
+,,,Mumbai- 400 053.,,
+195,K/W,7,"Sarswati Sadan, (65)110A, J. P. Road, Andheri (W), Mumbai-",,Private
+,,,400058,,
+,,,Roopali CHS LTD. (65),,Private
+196,K/W,8,,,
+,,,"Situated at Plot No.111/B, S.P.Road Andheri (W),Mumbai-400 058.",,
+,,,"Manisha Building, (65) Off. Geeta Arati CHS. Ltd., bhardawadi",,Private
+197,K/W,9,,,
+,,,"Road, Andheri (W), Mumbai-400 58.",,
+,,,"Sunil shopping centre (65)CHS LTD,108-A, J.P.Road, opp. Navrang",,Private
+198,K/W,10,,,
+,,,"Cinema, Andheri(W), Mumbai-400058.",,
+199,K/W,11,"Rabia Manzil, (65)Dawood Baug Road, Andheri (W), Mumbai-58",,Private
+,,,"Gajmukh CHS, Building (65) no.48, Azad Nagar no.3, Veera Desai",,Private
+200,K/W,12,,,
+,,,"Road, Andheri (W), Mumbai.",,
+,,,"Matruchaya CHS Ltd., (65) Building no. 46, Azad Nagar no.3, Veera",,Private
+201,K/W,13,,,
+,,,"Desai Road, Andheri (W), Mumbai.",,
+,,,"Azad Nagar Himalaya CHS Ltd., (65)Building no. 50, Azad Nagar",,Private
+202,K/W,14,,,
+,,,"no.3, Veera Desai Road, Andheri (W), Mumbai.",,
+,,,"Andheri Pratima CHSL (65) CTS No. 756, 756/1 to 9, Ceaser Road,",,Private
+203,K/W,15,,,
+,,,"Andheri (W), Mumbai-400 058.",,
+,,,"Gala & Yadav House (65) Village-Mogra CTS No. 26, S. V. Road,",,Private
+204,K/W,16,,,
+,,,"Andheri (W), Mumbai-400 058.",,
+,,,"15, Manisha Builidng (66) situated at Vishwabharti CHS, V.P.Raod,",,Private
+205,K/W,17,,,
+,,,"Andheri (W), Mumbai- 58.",,
+,,,"D’mello House,(66) Near Paneri shopping Mall,Andheri, Gaothan,",,Private
+206,K/W,18,,,
+,,,"S.V. Raod, Andheri (W), Mumbai.",,
+,,,"“A”, Vijay Colony (66)CTS No. 385 C, Juhu Gulli, C. D. Barfiwala",,Private
+207,K/W,19,,,
+,,,"Lane, Andheri (W), Mumbai-400 058.",,
+,,,"Jeroo Villa (68) Plot no. 20, Next to Krishna Apt., opp. Good",,Private
+208,K/W,20,,,
+,,,"Shepherd Church Four Bunglow, Andheri (W), Mumbai- 400 053.",,
+,,,"Juhu Ramesh Mahal CHS Ltd,(69)","CTS No. 461,A.B. Nair",Private
+209,K/W,21,,,
+,,,"Road,Juhu Mumbai 400 049.",,
+,,,"Bhutt Bungalow(69) Plot No. 5, CTS No. 252, N.S.Road No. -01,",,Private
+210,K/W,22,,,
+,,,"Opp. Bhaidas Hall, Vile Parle (W), Mumbai-56.",,
+,,,"Patel Bunglow Plot No. 24, (69) N.S. Road No. 12, Jai Hind Society,",,Private
+211,K/W,23,,,
+,,,J.V. P. D. Mumbai-400 049,,
+212,K/W,24,"Shrijee Krupa (69) Juhu Tara Road, Juhu, Mumbai-400 049",,Private
+,,,"Kalyani Building (69)N.S.Road No.4, JVPD Scheme, Juhu, Mumbai-",Private
+213,K/W,25,,
+,,,400 049,
+,,,"Vasant Kunj Building (70) Bapubahi Vashi Road, Vileparle (W),",Private
+214,K/W,26,,
+,,,Mumbai-400 056.,
+215,K/W,27,"Dipawali Building(70) S.V. Road, Andheri (W), Mumbai-400",Private
+216,K/W,28,"Sadaguru Building (70) Bjaj Road, Vileparle (W), Mumbai -56..",Private
+217,K/W,29,"Dadi House (70) Irla Society Road, Vile Parle (W), Mumbai-400",Private
+,,,"056.Vasant Vihar Building, (70) Bapubhai Vashi Road, Vile Parle (W) ,",Private
+218,K/W,30,,
+,,,Mumbai.,
+219,K/W,31,Neelshit Building (70),Private
+,,,"Gawde Niwas, (71) Haribhai Gawde Niwas, Juhu, Andheri (West),",Private
+220,K/W,32,,
+,,,Mumbai,
+221,K/W,33,"Mahalaxmi Niwas, (71) St. Francis Road, Vile Parle (W), Mumbai.",Private
+,,,"Seva Sadan Building, (71)Jn. Of Lajpatrai Road & D. J. Road, CTS",Private
+222,K/W,34,"No. 1216 of Villagae Vile Parle, F.P. No. 81, TPS-III, Vile Parle (W),",
+,,,Mumbai- 400 056,
+,,,"Building No. 1, Land bearing (71) CTS No. 963/1, Village Juhu, Jufu",Private
+223,K/W,35,,
+,,,"Tara Road,Mumbai.",
+,,,"Building No. 2, Land bearing (71) CTS No. 966, Village Juhu, Jufu",Private
+224,K/W,36,,
+,,,"Tara Road, Mumbai.",
+225,K/W,37,"Ashish Building, Bit No.69,Road No.4,5 J V P D Andheri West",Private
+,,,P/South WARD,
+226,P/S,1,"Padmavati CHS, A. K. Vaidya Marg, Goregaon (E), Mumbai.",Private
+227,P/S,2,"Saket Shopping Centre, Station Road, Goregaon (W), Mumbai.",Private
+228,P/S,3,"Udar Goregaon CHS Ltd., S. V. Road, Goregaon (W), Mumbai",Private
+229,P/S,4,Himachal Chsl.OPp. Sunder Nagar. S.V.Road. Goregaon W.,Private
+230,P/S,5,"Tahoora Mansion, Opp. Sunder Nagar, Goregaon (W), Mumbai.",Private
+,,,P/North WARD,
+231,P/N,1,"Jugal Kishor, S.V. Rd. Malad(W),",Private
+232,P/N,2,"Manish Kunj, Ramachandra Lane , Malad (w)",Private
+233,P/N,3,"Kamal Kunj, Ramachandra Lane , Malad (w)",Private
+234,P/N,4,"Ganesh Prasad, Liberty Garden Rd., Rd. No. 1 Malad(W)",Private
+235,P/N,5,"Martand Prasad. A Wing, P.G. Rd. Malad (W)",Private
+236,P/N,6,"Shankar Niwas, Underai Rd., Malad(W)",Private
+237,P/N,7,"Pragati Niwas, P.G. Rd., Malad(W)",Private
+,,,"Girdharilal Nandlal Oza Bldg., Nadiadwalla Colony No. 1,",Private
+238,P/N,8,,
+,,,"Malad(W), Mum-64",
+239,P/N,9,"Mohanlal Mansion, Underai Rd., Malad(W),",Private
+240,P/N,10,"Hirji Narsi Chawl, Turel Pakhadi Rd., Malad (W)",Private
+,,,"Geetanjali Bldg, Opp. Malad Subway, Manchubhai Rd., Malad(E),",Private
+241,P/N,11,,
+,,,Mum-97,
+,,,"Pushpa Park, G Plot (G+2), Near S.K. Patil Hospital, Daftary Rd.,",Private
+242,P/N,12,,
+,,,"Malad(E), Mumbai-97",
+,,,"Pushpa Park, H Plot, Near S.K. Patil Hospital, Daftary Rd.,",Private
+243,P/N,13,,
+,,,"Malad(E), Mumbai-96",
+244,P/N,14,"Savers Heights, Abdul Hamid Road, Malvani Gate No.5,Malad W",Private
+,,,"Porocol House of Our Lady of Sea Church, Madh Island, Madh",Private
+245,P/N,15,,
+,,,"Road, Malad West",
+246,P/N,16,"Saidham Chs, Chincholi Bunder, Malad West",Private
+,,,"Nilgiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+247,P/N,17,,
+,,,Mumbai 400064,
+,,,"Shivgiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+248,P/N,18,,
+,,,Mumbai 400064,
+,,,"Sahtagiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+249,P/N,19,,
+,,,Mumbai 400064,
+,,,"Dhawalgiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+250,P/N,20,,
+,,,Mumbai 400064,
+,,,"Udaygiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+251,P/N,21,,
+,,,Mumbai 400064,
+,,,"Himgiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+252,P/N,22,,
+,,,Mumbai 400064,
+,,,"Dronagiri Building, Modern Usha Chs, Evershine Nagar, Malad W",Private
+253,P/N,23,,
+,,,Mumbai 400064,
+254,P/N,24,"Mayura Chs, Mith Chowky, Off. Marve Road, Malad W, M-97",Private
+255,P/N,25,"Plot No.60, Pusha Park Road No.3, Malad E,Mumbai97",Private
+,,,"Kuslum Kazi Building, Near Jijamata Bal Mandir, Kurar Village,",Private
+256,P/N,26,,
+,,,"Malad E, Mumbai -400097",
+257,P/N,27,"Mistry Bhavan, R.S.NImkar Marg,Opp Raheja Tipko,Malad E",Private
+258,P/N,28,"Bhupendra Niwas, Jitendra Road, Malad E, Mumbai -97",Private
+,,,Zone V,
+Sr. No.,WARD, Sr. No.,Name & Address of Building,Building owned by
+,,of Ward,,Municipal / private /
+,,,,Govt
+,,,L WARD,
+,,,"Radha Niwas, Gafur Khan Estate, Near Hanuman Tekadi MItra",Private
+259,L,1,,
+,,,"Mandal, Off L.B.S. Marg,Kurla West.",
+,,,"Gafur Khan Estate Chawl, Near Hanuman Tekadi MItra Mandal, Off",Private
+260,L,2,,
+,,,"L.B.S.Marg,Kurla West.",
+261,L,3,"163,Michel Chawl,Pipe Road, Kurla (W) M-70.",Private
+262,L,4,"Diamond Chawl,Pipe Road, Kurla (W) M-70.",Private
+,,,"Mehtab Buildin, 410, Mehtab Lane, S.G.Barve Road, near L ward,",Private
+263,L,5,,
+,,,Kurla (W)- 70,
+264,L,6,"Chakkiwala Building A-Wing, New Hall Road, Kurla (W)",Private
+265,L,7,"Chakkiwala Building B-Wing, New Hall Road, Kurla (W)",Private
+266,L,8,"139, Abbas Building, match Factory lane, Kurla (w)",Private
+267,L,9,"Tribhvandas Building, Hariyanwala lane, station road, kurla (w)",Private
+268,L,10,"Hasan Ali Building, sarveshwar Mandir Marg, Near Kurla Police",Private
+269,L,11,"Sakharwala Building, Kurla court",Private
+270,L,12,"Sowadeshi Mill Chawl, Chunabhatti Kurla East",Private
+271,L,13,"Ajay Niketan, Chunabhatti, Kurla East",Private
+272,L,14,"Kanthariya Stable Add- Jarimari, Andheri Kurla Road",Private
+273,L,15,"Kuldeep Silk Milk Add- MTNL Road,Sakinaka",Private
+274,L,16,Aditya Office Building Add - Andheri Kurla Road,Private
+275,L,17,Aditya Pentax Building Add Andheri Kurla Road,Private
+276,L,18,JP House Add - Sakinaka Junction,Private
+277,L,19,"Zaki Mansion(Sufi Mansion) Balaji Mandir Road, Kurla W",Private
+,,,M/East WARD,
+,,,"Ishwar Aangan CHS ,Plot No. 15, C.T.S. NO. 308(1-3), Village",Private
+278,M/E,1,,
+,,,"Waghwali, Laxmi Colony, R.C. Marg,Chembur, Mumbai-74",
+,,,"Rajiv Niwas CHS Ltd. Survey No. 62,Hissa No. 268, Laxmi Colony,",Private
+279,M/E,2,,
+,,,"R.C. Marg,Chembur, Mumbai-74",
+,,,M/West WARD,
+280,M/W,1,"Plot No-35, Sindhi immigrants CHS, Chembur, Mumbai-400071.",Private
+281,M/W,2,"Sandu Wadi 7th Road, RLB Lab Bldg & NAC E-93 Bldg, Chembur",Private
+282,M/W,3,"Yadkul Bldg, Postal Colony Road, Plot No. 24, Chembur",Private
+,,,,,,,,th,,
+283,M/W,4,"Vasudha CHS Ltd, Plot No.D-2/403, Diamond Garden,",,,,,7,cross,Private
+,,,"Road, Chembur, Mumbai-71.",,,,,,,
+,,,"Sheltar Building, Plot Bearing CTS No.1487, 1487/1 to 4, Village",,,,,,Private,
+284,M/W,5,,,,,,,,
+,,,"Chembur, Mumbai-71.",,,,,,,
+,,,"Kamal Sadan, Plot no. 8, Sindhi Society, Ekveera Marg, S.T. Road,",,,,,,Private,
+285,M/W,6,,,,,,,,
+,,,"Chembur, Mumbai-71",,,,,,,
+286,M/W,7,"Rail View Building, N.G. Acharya Marg, Chembur, Mumbai 071",,,,,,Private,
+,,,"Umed Bhavan, D-146/147, Chembur Gaothan, Chembur, Mumbai –",,,,,,Private,
+287,M/W,8,,,,,,,,
+,,,400 071.,,,,,,,
+288,M/W,9,"Ramtirth Bunglow, Plot No. 527, 12th Road,",,,,,,Private,
+,,," Chembur, Mumbai 400 071",,,,,,,
+,,,"Keshav Krupa Building, N.G. Acharya Marg, Opp. Laxmi Market,",,,,,,Private,
+289,M/W,10,,,,,,,,
+,,,"Chembur (E), Mumbai 400 071.",,,,,,,
+,,,"Malhotra Niwas, Plot No.409,CTS 1632,1 to 6, V.N. Purav Marg,",,,,,,Private,
+290,M/W,11,,,,,,,,
+,,,"Chembur (E.),Mumbai – 400 071",,,,,,,
+,,,,,Zone VI,,,,,
+Sr. No.,WARD, Sr. No.,,Name & Address of Building,,,,,Building owned by,
+,,of Ward,,,,,,,Municipal / private /,
+,,,,,,,,,Govt,
+,,,,,N - WARD,,,,,
+,,,"Kakubai Rangwala Chawl, Behind Sandeep Hotel, Station road,",,,,,,Private,
+291,N,1,,,,,,,,
+,,,"Ghatkopar (W), Mum-86.",,,,,,,
+,,,"Kakubai Rangwala Chawl, Behind Sandeep Hotel, Station road,",,,,,,Private,
+292,N,2,,,,,,,,
+,,,"Ghatkopar (W), Mum-86",,,,,,,
+,,,Shanta,Bhuvan,situated,at,"Gangawadi,","L.B.S. Raod,",Private,
+293,N,3,,,,,,,,
+,,,"Ghatkopar (W), Mumbai – 400 086",,,,,,,
+294,N,4,"Dilip kunj, Jivdaya lane,Ghatkopar(W).",,,,,,Private,
+,,,Kabali,Building,Laxminarayan,,"Wadi,",M.G.,"Road,",Private
+295,N,5,,,,,,,,
+,,,"Ghatkopar (E), Mumbai – 400 077",,,,,,,
+,,,"Narayan Nagar Building No. 1”, Narayan",,,,"Nagar,",L.B.S.,"Marg,",Private
+296,N,6,,,,,,,,
+,,,"Ghatkopar (W), Mumbai – 400 086.",,,,,,,
+297,N,7,"Janjira Chawl, Rajawadi Rd.No.1, Ghatkopar(E).",,,,,,Private,
+,,,Laxminarayan,,CHSL,situated,at,Hingwala,Private,
+298,N,8,,,,,,,,
+,,,"Lane, M.G. Road, Ghatkopar (E), Mumbai – 400 077",,,,,,,
+299,N,9,"Parvati sadan, Bhanushali lane, Tilak Road, Ghatkopar (E)",,,,,,Private,
+300,N,10,"Praja CHSL., Nath Pai Nagar, Ghatkopar (E)",,,,,,Private,
+301,N,11,"Amrut Kunj,M.G. Road, Ghatkopar (E), Mumbai- 400 077.",,,,,,Private,
+,,,"Madhav Bhuvan, Desai Chawl,Gandhinagar, beside sarvodaya",,,,,,Private,
+302,N,12,,,,,,,,
+,,,"Hospital, L.B.S. Road, Ghatkopar(W).",,,,,,,
+303,N,13,"Gopal bhuvan, L.B.S.Road, Ghatkopar(W)",,,,,,Private,
+,,,"Laxmi House, C.T.S. No. 5758, Plot no. 200, 60ft. Road, Ghatkopar",,,,,,Private,
+304,N,14,,,,,,,,
+,,,"(E), Mumbai - 400 077.",,,,,,,
+,,,"Jayant Villa (G+3, G+4), Hingwala Lane, Ghatkopar East, Mumbai -",,,,,,Private,
+305,N,15,,,,,,,,
+,,,400 077.,,,,,,,
+,,,"Owner/Occupier, P. G. Bargode Chwal (Yashoda Niwas), Near",,,,,,Private,
+306,N,16,"Sainath Pipleshwar Mandir, Jai Maharashtra, Ganesh Maidan Marg,",,,,,,,
+,,,"Parshi Wadi, Ghatkopar (W), Mumbai 400 086.",,,,,,,
+,,,"Ishwar Niwas & Harnam Niwas, Opp. Sant Gadge Baba Maharaj",,,,,,Private,
+307,N,17,,,,,,,,
+,,,"Udyan, Garden Lane, L.B.S. Road, Ghatkopar (W), Mumbai - 400",,,,,,,
+,,,"Tin Bunglows, CTS No. 3320 to 3336 of Ghatkopar Kirol Village,",,,,,,Private,
+308,N,18,,,,,,,,
+,,,"J.V. Road, Khot Lane, Ghatkopar (W), Mumbai - 400 086",,,,,,,
+,,,"Madhavkunj Building, Plot Bearing CTS No. 5121 to 5129 and Part",,,,,,Private,
+309,N,19,,,,,,,,
+,,,"5151, Derasar Lane, Ghatkopar (E), Mumbai - 400 077.",,,,,,,
+310,N,20,"Gandhi Market, M.G. Road, Ghatkopar (E), Mumbai - 400 077.",,,,,,Private,
+311,N,21,"Lakhani estate, L B S road, Jivadaya lane",,,,,,Municipal,
+,,,"Mehta Building, Cama lane, Kirol Road, Ghatkopar (West) Mumbai -",,,,,,Private,
+312,N,22,,,,,,,,
+,,,400086,,,,,,,
+,,,"396/348 Tenements, Building No.6, Vikhroli Park Site, Municipal",,Municipal
+313,N,23,"Colony, Vikhroli (W), Mumbai – 400 079. ( 28 Nos. Buildings",,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.7, Vikhroli Park Site, Municipal",,Municipal
+314,N,24,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.8, Vikhroli Park Site, Municipal",,Municipal
+315,N,25,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.9, Vikhroli Park Site, Municipal",,Municipal
+316,N,26,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.10, Vikhroli Park Site, Municipal",,Municipal
+317,N,27,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No. 16, Vikhroli Park Site, Municipal",,Municipal
+318,N,28,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.17, Vikhroli Park Site, Municipal",,Municipal
+319,N,29,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No. 18, Vikhroli Park Site, Municipal",,Municipal
+320,N,30,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.19, Vikhroli Park Site, Municipal",,Municipal
+321,N,31,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.20, Vikhroli Park Site, Municipal",,Municipal
+322,N,32,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.21, Vikhroli Park Site, Municipal",,Municipal
+323,N,33,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.22, Vikhroli Park Site, Municipal",,Municipal
+324,N,34,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.23, Vikhroli Park Site, Municipal",,Municipal
+325,N,35,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.24, Vikhroli Park Site, Municipal",,Municipal
+326,N,36,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.25, Vikhroli Park Site, Municipal",,Municipal
+327,N,37,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.26, Vikhroli Park Site, Municipal",,Municipal
+328,N,38,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No.27, Vikhroli Park Site, Municipal",,Municipal
+329,N,39,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"396/348 Tenements, Building No. 28, Vikhroli Park Site, Municipal",,Municipal
+330,N,40,"Colony, Vikhroli (W),",Mumbai – 400 079. ( 28 Nos. Buildings,
+,,,pertains to Estate Department),,
+,,,"80 Tenements, Building No. 1, Vikhroli Park Site, Municipal Colony,",,Municipal
+331,N,41,"Vikhroli (W), Mumbai – 400 079. ( 02 Nos. Buildings pertains to",,
+,,,Estate Department),,
+,,,"80 Tenements, Building No.2, Vikhroli Park Site, Municipal Colony,",,Municipal
+332,N,42,"Vikhroli (W), Mumbai – 400 079. ( 02 Nos. Buildings pertains to",,
+,,,Estate Department),,
+,,,,S - WARD,
+,,,"Geetanjali Builing, (Beat No 112) Near Bhatia Hospital,Village",,Private
+333,S,1,,,
+,,,"Road, Bhandup (W), Mumbai- 400 078",,
+,,,"Ananta Siddhi Complex, Prayer Hall, (Beat No. 112) L.B.S. Marg,",,Private
+334,S,2,,,
+,,,"Bhandup (W), Mumbai- 400 078",,
+,,,"Shree Krishna mahal, Jangal Mangal Road, Bhandup (W), Mumbai-",Private
+335,S,3,,
+,,,400 078 (Beat no.113),
+,,,"Sanmanshree Co. Op. HSG soc. Ltd Plot no. 2, Sanman singh marg,",Private
+336,S,4,,
+,,,"Bhandup (W), Mumbai- 400 078 (Beat no.115)",
+,,,T,WARD
+,,,"Mulund Ambe Mahal, Plot no. 823, S. No. 1000, P.K. Road, Mulund",Private
+337,T,1,,
+,,,"(W),",
+338,T,2,"Mulji Gopalji Bldg., N. S. Road, Mulund (W)",Private
+339,T,3,"Varsha Bldg. N. S. Road, Mulund (W)",Private
+340,T,4,"Janki Niketan, Dr .R P.Road, Mulund (W),",Private
+341,T,5,"Vyas wadi bldg. S.L. Road, Mulund (W),",Private
+342,T,6,"Mulund Om Prashant, Tambe Nagar, S. N. Road, Mulund (W)",Private
+343,T,7,"Kaushal Niwas, S.N. Road, Mulund (W),",Private
+344,T,8,"Pathai Bappa, S.L. Road Jun. N.S.B. Road, Mulund (W)",Private
+345,T,9,"Pratap Palace, A Wing, J.N. Road, Mulund (W )",Private
+346,T,10,"Nenabai Niwas, J.N. Road, Mulund (W),",Private
+,,,"‘Laxmi Villa’, on Plot No. 199-200-207-208 part, CTS No. 1393,",Private
+347,T,11,"Prem Nagar Building, Jawaharlal Nehru Road,Mulund (W), Mumbai-",
+,,,400080,
+,,,"‘Sunder Villa’, on Plot No. 199-200-207-208 part, CTS No. 1393,",Private
+348,T,12,"Prem Nagar Building, Jawaharlal Nehru Road,Mulund (W), Mumbai-",
+,,,400080,
+,,,"‘Mitha Kunj’, on Plot No. 199-200-207-208 part, CTS No. 1393,",Private
+349,T,13,"Prem Nagar Building, Jawaharlal Nehru Road,Mulund (W), Mumbai-",
+,,,400080,
+350,T,14,"Hiraji Bhuvan, Navghar Road, Mulund (E),",Private
+351,T,15,"Saikrupa Bldg. ‘A’ Wing, Navghar Road, Mulund (E)",Private
+,,,"Maneesha Bldg. ‘A’ & ‘B’ Wing, CTS No. 832, Navghar Road,",Private
+352,T,16,,
+,,,Mulund (E),
+,,,"‘Gokul Sadan’, CTS No. 610, 610/1 to 26, & 666 of Village Mulund",Private
+353,T,17,,
+,,,"Keshar Baug, Mulund (E),",
+,,,"Malti Bhuvan, CTS No. 610, 610/1 to 26, & 666 of Village Mulund",Private
+354,T,18,,
+,,,"Keshar Baug, Mulund (E),",
+,,,"Vasant Niwas, CTS No. 610, 610/1 to 26, & 666 of Village Mulund",Private
+355,T,19,,
+,,,"Keshar Baug, Mulund (E),",
+356,T,20,"Hari Niwas, Mhatre Nagar, Mithagar Road, Mulund (E),",Private
+357,T,21,"Krishna Niwas, Mhatre Nagar, mithgar Road, Mulund (E),",Private
+358,T,22,"Laxmi Chhaya Bldg, Navghar Galli No. 1, Navghar Road, Mulund",Private
+,,,"(E),",
+359,T,23,"Vaity Bhuvan, Navghar Road, Mulund (E),",Private
+360,T,24,"Bhagyodaya Bldg, Mhatre Nagar, Mithagar Road, Mulund (E),",Private
+361,T,25,"Shriniwas, Off Walji Laddha Road, Mulund (W).",Private
+362,T,26,"Ramani Bhuvan, R.R.T. Road, Mulund (W),",Private
+363,T,27,"Shree Krupa bldg, R.H.B. Road, Mulund (w)",Private
+,,,"Bramhajyoti Bldg. B (Mirani Nagar), Ganesh Gawde road, Mulund",Private
+364,T,28,,
+,,,"(w),",
+365,T,29,"Mahamaya Bldg, Ganesh Gawde road, Mulund (w),",Private
+366,T,30,"Deep Mandir Theater, L.B.S. Marg, Mulund (W),",Private
+,,,"Chandrajyoti Bldg C (Mirani Nagar), Ganesh Gawde road, Mulund",Private
+367,T,31,,
+,,,"(w),",
+368,T,32,"Arunoday A (Mirani Nagar), Ganesh Gawde road, Mulund (w),",Private
+369,T,33,"Divyajyoti Bldg D (Mirani Nagar), Ganesh Gawde road, Mulund (w),",Private
+370,T,34,"Matru Chhaya Bldg., N. S. Road, Mulund (W)",Private
+371,T,35,"Rama Bhuvan A wing, N.S.B. Road, Mulund (W),",Private
+,,,"Adenwala CHS. Ltd.,Plot No. 516A, C.T.S. No. 941 1 to 9, Junction",,,,,Private
+372,T,36,,,,,,
+,,,"of P.K. Road & N.S. Road, Mulund (W),",,,,,
+,,,"Panchvati Bldg. Ganesh Gawade Cross Road, Back to Shrre Balaji",,,,,Private
+373,T,37,,,,,,
+,,,"Temple, Mulund (W),",,,,,
+374,T,38,"Madhyam Villa, J.N. Road, Mulund (W),",,,,,Private
+375,T,39,"Shree Krishna Niwas, Satyadhyan Vidyapeeth Marg, Mulund (W)",,,,,Private
+376,T,40,"Mishra House, Walji Laddha road, Mulund (W),",,,,,Private
+377,T,41,"Sawant sadan CHS, Walji Ladda x Road, Mulund (W)",,,,,Private
+378,T,42,"Shah Niwas, Zaver Road and R.R.T.. Road, Mulund (W)",,,,,Private
+379,T,43,"Vallabh Bhuvan,Cross Walji Laddha road, Mulund (W),",,,,,Private
+380,T,44,"Hira Sadan, R.R. T. Road, Mulund (w),",,,,,Private
+381,T,45,"Hanuman Niwas, of R.H.B Road, Mulund (w),",,,,,Private
+382,T,46,"Anusaya Bldg.,Off R.H.B. Road Mulund (W),",,,,,Private
+383,T,47,"Keniya Niwas, V.P. Road, Mulund (W),",,,,,Private
+384,T,48,"Patel Bldg., M.G. Road Junction, Ganesh Gawade Road, Mulund",,,,,Private
+,,,(W),,,,,
+,,,"‘Neelam Building’, Junction of RHB Road, & Ganesh Gawade",,,,,Private
+385,T,49,,,,,,
+,,,"Road,Mulund (W), Mumbai-400080.",,,,,
+,,,,Zone VII,,,,
+Sr. No.,WARD, Sr. No.,,Name & Address of Building,,,,Building owned by
+,,of Ward,,,,,,Municipal / private /
+,,,,,,,,Govt
+,,,,R/South WARD,,,,
+386,R/S,1,"Punita Appts. , S.V. Rd.. Kandivali(W), Mum-67",,,,,Private
+,,,"Mun. Industrial Estate situated on Plot No. 6, Opp. Raghuleela Mall,",,,,,Private
+387,R/S,2,,,,,,
+,,,"Kandivali (W), Mum-67",,,,,
+,,,Mathuradas,Govardhandas,"Bunglow,","S.V.Rd.,","Kandivali(W),",Private
+388,R/S,3,,,,,,
+,,,Mumbai-67,,,,,
+,,,"Purushottam Apt.,on plot bearing CTS NO. 87A & 87B/ 1 to 21 of",,,,,Private
+389,R/S,4,"village Malad-North situated at Bhogilas Fodia Rd., Kandivali(W),",,,,,
+,,,Mum-67,,,,,
+390,R/S,5,"Vidyanidhi Bldg., Mathuradas Road, Kandivali (W)",,,,,Private
+,,,"Gopal Bhuvan, Opp. Fire Bridge, S.V. Road, Kandivali (W), Mumbai",,,,,Private
+391,R/S,6,,,,,,
+,,,– 67,,,,,
+392,R/S,7,"Radha Niwas, Irani Wadi Road No. 3, Iraniwadi, Kandivali (W)",,,,,Private
+,,,"Rukmini Niwas, Shantilal Modi Cross Road No.2, Iraniwadi W",,,,,Private
+393,R/S,8,,,,,,
+,,,Mumbai-400067,,,,,
+,,,"New Rakhi Chs, Wing A and B, Iraniwadi Road No.2, Kandivali",,,,,Private
+394,R/S,9,,,,,,
+,,,West Mumbai67,,,,,
+,,,"Vishnu Bhavan, Plot No.11, CTSNo.91 &91-1 to 4, of villege akurli,",,,,,Private
+395,R/S,10,,,,,,
+,,,"Chitahbhai Patel Road, Kandivali E,Mumbai-400101",,,,,
+396,R/S,11,"Paradise Building, Shantilal Modi Road, Kandivali W, Mumbai-34",,,,,Private
+397,R/S,12,"Lijjat Godavari, MG Road, Opp Vaishali Bus Stop, Kandivali W,M-",,,,,Private
+,,,67,,,,,
+398,R/S,13,"Kandivali Shraddha, B Wing, S.V.Road, Kandivali W,Mumbai67",,,,,Private
+399,R/S,14,"Modi Industrial Estate, Patel Nagar, Kandivali W, Mumbai 67",,,,,Private
+,,,"""Chandrakla Bldg"" M..G. Road. Near kla Hanuman Mnadir ,",,,,,Private
+400,R/S,15,,,,,,
+,,,Kandivali (w),,,,,
+,,,"""Siddheshwar Bhuvan"", Kandivali Gaothan, off M.G. Road,",,,,,Private
+401,R/S,16,,,,,,
+,,,"Kandivali (W), Mumbai-67",,,,,
+402,R/S,17,"Shopping centre at sai nagar, Powels land",,,,,Municipal
+,,,,R/Central,WARD,,,
+,,,"Amrapali Amravan C.H.S. Ltd., C.K.P. Colony, Eksar Road, Borivali",,,,,Private
+403,R/C,1,,,,,,
+,,,"(West), Mumbai - 91",,,,,
+,,,"Borivali Shiv Tirth C.H.S. Ltd., Kastur Park Shimpoli Road, Borivali",,,,,Private
+404,R/C,2,,,,,,
+,,,"(West), Mumbai – 092.",,,,,
+,,,"Shree Govind Nagar C.H.S. Ltd., Bldg. No. 23, Govind Nagar,",,,,,Private
+405,R/C,3,,,,,,
+,,,"Borivali (W.), Mumbai -92.",,,,,
+,,,"Multani Chawl Structure No. 390, F.P. No. 58, TPS-III, S.V.Road,",,Private
+406,R/C,4,,,
+,,,"Umed Ashram, Borivali (W.), Mumbai - 92.",,
+,,,"Multani Chawl Structure No. 391, F.P. No. 58, TPS-III, S.V.Road,",,Private
+407,R/C,5,,,
+,,,"Umed Ashram, Borivali (W.), Mumbai - 92.",,
+,,,"Multani Chawl Structure No. 392, F.P. No. 58, TPS-III, S.V.Road,",,Private
+408,R/C,6,,,
+,,,"Umed Ashram, Borivali (W.), Mumbai - 92.",,
+,,,"Multani Chawl Structure No. 393, F.P. No. 58, TPS-III, S.V.Road,",,Private
+409,R/C,7,,,
+,,,"Umed Ashram, Borivali (W.), Mumbai - 92",,
+410,R/C,8,"Manjul Darshan Kasturba Road No. 1, Borivali (E.), Mumbai - 66",,private
+411,R/C,9,"Diwali Darshan, M.G.Road, Borivali (E.), Mumbai-66.",,Private
+412,R/C,10,"Girikunj Building, S.V.Rd., Borivali(W),Mumbai-92",,Private
+,,,"Ujwala Bldg, Kasturba Cross Road No. 2, Opp Rajiv Gandhi",,Private
+413,R/C,11,,,
+,,,"Municipal Garden, Borivali (E), Mumbai – 66",,
+,,,"Kapil Kunj, Chs Ltd. Opp. Raj Yog Building,",,Private
+414,R/C,12,,,
+,,," Rokadia Lane, Borivali W,Mumbai-92",,
+,,,"Om Shree Geetanjali Nagar A Chs Ltd.A/2,Manek Building,Behind",,Private
+415,R/C,13,,,
+,,,"Saibaba Temple Borivali West,Mumbai-92",,
+,,,"Om Shree Geetanjali Nagar B-1 Chs Ltd.A/2,Manek Building,",,Private
+416,R/C,14,,,
+,,,"Behind Saibaba Temple Borivali West,Mumbai-92",,
+,,,"Om Shree Geetanjali Nagar B-2 Chs Ltd.A/2,Manek Building,",,Private
+417,R/C,15,,,
+,,,"Behind Saibaba Temple Borivali West,Mumbai-92",,
+,,,"Om Shree Geetanjali Nagar B-3 Chs Ltd.A/2,Manek Building,",,Private
+418,R/C,16,,,
+,,,"Behind Saibaba Temple Borivali West,Mumbai-92",,
+419,R/C,17,"laxmi Niwas, Factory Lane, Boriwali West,Mumbai-92",,Private
+,,,R/North WARD,,
+,,,"Rajkiran CHS Ltd.Behind Bank of Maharashtra, Infront of Dahisar",,Private
+420,R/N,1,,,
+,,,"Post Office, S.V. Road, Dahisar (E), Mumbai 400 068",,
+,,,"Vijaydham CHS Ltd., C.S. Road, Near Dahisar Subway, Dahisar (E),",,Private
+421,R/N,2,"Mumbai 400 068.Vijaydham CHS Ltd., C.S. Road, Near Dahisar",,
+,,,"Subway, Dahisar (E), Mumbai 400 068.",,
+422,R/N,3,"Shree Sai Niketan Medona Colony, Borivali (W), Mumbai 400103.",,Private
+,,,"Dahisar Gaurav CHS Ltd.Hari Shankar Joshi Marg, Dahisar (E),",,Private
+423,R/N,4,,,
+,,,Mumbai 400 068,,
+,,,"Shop Building No. - 1, Jivan Bima Nagar, Taruban Bhoba Road,",,Govt.
+424,R/N,5,,,
+,,,"Borivali West, Mumbai – 400103.(Gr +1 Structure)",,
+425,R/N,6,"Mani Bhavan CHS, B.P. Road, Dahisar West, Mumbai-68",,Private
+426,R/N,7,"Har Gulab, BP Road, Dahisar West, Mumbai-68",(Gr+4,Private
+,,,"Structure)Daullat, Gawde Nagar, SN dube road, Dahisar East, Mumbai-103",,
+427,R/N,8,,,Private
+,,,"Zainab baug, Near Purn Praja School, off Bharucha Road, Dahisar",,Private
+428,R/N,9,,,
+,,,"(E), Mum- 400068",,
+429,R/N,10,"Vanmali Chawl, Bapu Bagve Road, Dahisar (W) Mum - 68",,Private
+430,R/N,11,"Pramila Nagar CHS, Pramila Nagar, Nr. Saibaba Nagar, Dahisar (W)",,Private
+,,,"Sai Padma CHSL, Raghnath Mhatre Road Nr. Dahisar Bidge,",,Private
+431,R/N,12,,,
+,,,Dahisar (W),,
+432,R/N,13,"Vandana CHSL, Parbat Nagar, CTS No. 1732/ 9, Dahisar (E)",,Private
