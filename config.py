@@ -1,4 +1,5 @@
 import oracledb
+import csv
 
 # Database configuration
 DB_CONFIG = {
@@ -9,37 +10,69 @@ DB_CONFIG = {
     "password": "prop"
 }
 
-# Build the DSN (Data Source Name)
+# Build the DSN
 dsn = f"{DB_CONFIG['host']}:{DB_CONFIG['port']}/{DB_CONFIG['service_name']}"
 
 try:
-    # Connect to the Oracle database
+    # Connect to the Oracle DB
     connection = oracledb.connect(
         user=DB_CONFIG['user'],
         password=DB_CONFIG['password'],
         dsn=dsn
     )
-
     print("✅ Connection successful!")
 
-    # Run a test query
     cursor = connection.cursor()
-    cursor.execute("SELECT table_name FROM all_tables WHERE owner = 'PROP'")
-    tables = cursor.fetchall()
+    query = """
+    SELECT * 
+    FROM PROP.AOMS_PROPGENMOD_DET 
+    NATURAL JOIN PROP.AOMS_PROPGENMOD_MST 
+    NATURAL JOIN PROP.AOMS_PROPMODTYPE_MAS
+    """
+    cursor.execute(query)
 
-    x = []
+    columns = [col[0] for col in cursor.description]
+    all_rows = cursor.fetchall()
 
-    print("📄 Tables in PROP schema:")
-    for table in tables:
-        x.append(table[0])
+    # Deduplication check
+    seen = set()
+    duplicates = []
+    test_rows = []
 
-    print(len(x))
+    for row in all_rows:
+        row_tuple = tuple(row)
+        if row_tuple in seen:
+            duplicates.append(row)
+        else:
+            seen.add(row_tuple)
+
+        # Check for case-insensitive "test" in any string column
+        if any(isinstance(cell, str) and "test" in cell.lower() for cell in row):
+            test_rows.append(row)
+
+    print(f"\n📊 Total rows fetched: {len(all_rows)}")
+    print(f"🔁 Duplicate rows found: {len(duplicates)}")
+    print(f"🧪 Rows containing 'test': {len(test_rows)}")
+
+    if duplicates:
+        print("\n🚨 Duplicate records (first 5 shown):")
+        for row in duplicates[:5]:
+            print(dict(zip(columns, row)))
+
+    if test_rows:
+        print("\n🔍 Rows with 'test' (first 5 shown):")
+        for row in test_rows[:5]:
+            print(dict(zip(columns, row)))
+
+        with open('test_rows.csv', 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(columns)  # Write headers
+            writer.writerows(test_rows)
 
 except oracledb.Error as e:
     print("❌ Connection failed:", e)
 
 finally:
-    # Clean up
     if 'cursor' in locals():
         cursor.close()
     if 'connection' in locals():
