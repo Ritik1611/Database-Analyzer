@@ -80,6 +80,7 @@ def save_row(data, error=False):
 # Prompt date and validate
 user_start_date = prompt_date()
 valid_date = find_valid_date(user_start_date)
+carpet_area = str(int(input("Enter the carpet area: ").strip())) or "50"
 
 # Begin dropdown traversal
 for ward in get_options("ptashWardid"):
@@ -129,12 +130,14 @@ for ward in get_options("ptashWardid"):
                                     try:
                                         area_field = driver.find_element(By.ID, "ptasdTcptarea")
                                         area_field.clear()
-                                        area_field.send_keys("50")
+                                        area_field.send_keys(carpet_area)
                                     except:
+                                        print("❌ Area field not found or not editable.")
                                         continue
 
-                                    if not is_disabled("ptawdTaxId"):
-                                        tax_options = get_options("ptawdTaxId")
+                                    tax_options = get_options("ptawdTaxId") if not is_disabled("ptawdTaxId") else []
+                                    print("Tax options found:", len(tax_options))
+                                    if tax_options:
                                         for tax in tax_options:
                                             select_by_value("ptawdTaxId", tax.get_attribute("value"))
                                             tax_code_val = tax.text
@@ -175,6 +178,29 @@ for ward in get_options("ptashWardid"):
                                             else:
                                                 print(f"[✅ SAVED] {record}")
                                                 save_row(record)
+                                    else:
+                                        record = {
+                                            "date": valid_date,
+                                            "ward": ward.text,
+                                            "zone": zone.text,
+                                            "subzone": subzone.text,
+                                            "occupancy": occup.text,
+                                            "main_category": main_cat.text,
+                                            "sub_category": sub_cat.text,
+                                            "tax_code": "N/A",
+                                            "floor": floor_val,
+                                            "building_type": btype_val,
+                                            "fsi_factor": fsi_factor_val,
+                                            "fsi": get_field_value("ptasdFsi"),
+                                            "sddr_rate": get_field_value("ptasdSddrrate"),
+                                            "age_of_building": get_field_value("ptasdAge"),
+                                            "metered_unmetered": meter.text,
+                                            "carpet_area": "50",
+                                            "capital_value": "N/A",
+                                            "total_tax": "N/A"
+                                        }
+                                        print(f"[❌ ERROR] No tax options available. {record}")
+                                        save_row(record, error=True)
 
 print("✅ Scraping complete.")
 driver.quit()
