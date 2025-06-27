@@ -3,6 +3,7 @@ import re
 from openai import OpenAI
 from db import run_sql
 from logger import log, fetch_logs_for_table, format_logs_as_context
+import time
 
 client = OpenAI(api_key=os.getenv("MISTRAL_API_KEY"), base_url="https://api.mistral.ai/v1")
 model_id = "mistral-small-latest"
@@ -29,7 +30,7 @@ SYSTEM_PROMPT = [
             "14. Usually, you'll be provided with the result of the SQL query you just gave. You can use that result to analyze the table further.\n"
             "15. The SQL queries you provide will be executed against the Oracle database.\n"
             "16. Provide one SQL query at a time, and wait for the result before proceeding. The queries should be given in a single line.\n"
-            "17. If you have finished analyzing the table, ask for the next table. by saying 'Next table?' After this, you should provide the complete summary of the table regarding the relationships of it with other tables, including any foreign key relationships and how they connect to other tables.\n"
+            "17. If you have finished analyzing the table, ask for the next table. by saying 'Next table?' After this, you should provide the complete detailed summary of the table regarding the relationships of it with other tables, including any foreign key relationships and how they connect to other tables. Also include the summary of everything done in till now in the table. Include this in the Explanation section of the response.\n"
             "Your responses must follow this format:\n"
             "Explanation: <your explanation_of_the_previous_sql_query_result>\nSQL: <your SQL query>\nError: <your error>"
         )
@@ -60,6 +61,8 @@ def process_schema_chunks(chunks):
                 "role": "user",
                 "content": f"Schema:\n{schema.strip()}\n\nPrevious analysis:\n{prior_context}"
             }]
+
+            time.sleep(1.1) # Rate limit handling
 
             response = client.chat.completions.create(
                 model=model_id,
