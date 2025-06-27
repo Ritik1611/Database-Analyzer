@@ -42,27 +42,27 @@ def extract_table_name(schema: str) -> str:
     match = re.search(r"CREATE\s+TABLE\s+(\w+)", schema, re.IGNORECASE)
     return match.group(1) if match else "unknown_table"
 
-def process_schema_chunks(chunks):
-    executed_queries = set()
-
-    for step, schema in enumerate(chunks):
-        rounds = 0
-        table_done = False
+def process_schema_chunks(chunks, start_index=0):
+    for step, schema in enumerate(chunks[start_index:], start=start_index):
         table_name = extract_table_name(schema)
-
-        # 🔍 Retrieve prior logs for this table
         previous_logs = fetch_logs_for_table(table_name)
         prior_context = format_logs_as_context(previous_logs)
 
+        executed_queries = {row[1] for row in previous_logs if row[1]}
+        last_step = max([row[0] for row in previous_logs], default=step * 10)
+        rounds = 0
+        table_done = False
+
         while not table_done and rounds < 5:
             rounds += 1
+            current_step = last_step + rounds
 
             messages = SYSTEM_PROMPT + [{
                 "role": "user",
                 "content": f"Schema:\n{schema.strip()}\n\nPrevious analysis:\n{prior_context}"
             }]
 
-            time.sleep(1.1) # Rate limit handling
+            time.sleep(1.1)
 
             response = client.chat.completions.create(
                 model=model_id,
@@ -72,7 +72,6 @@ def process_schema_chunks(chunks):
             msg = response.choices[0].message.content
             print(f"\nStep {step+1} - Round {rounds}\n{msg}")
 
-            # ✅ Parse Mistral Output
             sql = re.search(r"SQL:\s*```sql\s*(.*?)\s*```", msg, re.DOTALL | re.IGNORECASE)
             if not sql:
                 sql = re.search(r"SQL:\s*(SELECT .*?)(?:\n|$)", msg, re.DOTALL | re.IGNORECASE)
@@ -93,18 +92,18 @@ def process_schema_chunks(chunks):
                 result = run_sql(sql_text)
                 if isinstance(result, str) and result.startswith("Error"):
                     error_text = result
+                    result_preview = error_text
                 else:
-                    if isinstance(result, str):  # result is an error message
+                    if isinstance(result, str):
                         result_preview = result
                     else:
                         result_preview = result.head(5).to_markdown(index=False)
 
-                    print(result_preview)
-
+                print(result_preview)
                 executed_queries.add(sql_text)
-                log(step+1, sql_text, str(result), explanation_text, error_text)
+                log(current_step, sql_text, str(result), explanation_text, error_text)
             else:
-                log(step+1, None, None, explanation_text, error_text)
+                log(current_step, None, None, explanation_text, error_text)
 
             if "Next table?" in msg:
                 table_done = True
