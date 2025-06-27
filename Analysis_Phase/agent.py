@@ -91,7 +91,11 @@ def process_schema_chunks(chunks):
                 if isinstance(result, str) and result.startswith("Error"):
                     error_text = result
                 else:
-                    result_preview = result.head(5).to_markdown(index=False)
+                    if isinstance(result, str):  # result is an error message
+                        result_preview = result
+                    else:
+                        result_preview = result.head(5).to_markdown(index=False)
+
                     print(result_preview)
 
                 executed_queries.add(sql_text)
