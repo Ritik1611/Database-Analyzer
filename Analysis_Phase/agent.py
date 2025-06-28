@@ -49,13 +49,12 @@ def process_schema_chunks(chunks, start_index=0):
         prior_context = format_logs_as_context(previous_logs)
 
         executed_queries = {row[1] for row in previous_logs if row[1]}
-        last_step = max([row[0] for row in previous_logs], default=step * 10)
         rounds = 0
         table_done = False
 
         while not table_done and rounds < 5:
             rounds += 1
-            current_step = last_step + rounds
+            current_step = step
 
             messages = SYSTEM_PROMPT + [{
                 "role": "user",
