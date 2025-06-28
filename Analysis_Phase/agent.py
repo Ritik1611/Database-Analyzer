@@ -96,7 +96,15 @@ def process_schema_chunks(chunks, start_index=0):
                     if isinstance(result, str):
                         result_preview = result
                     else:
-                        result_preview = result.head(5).to_markdown(index=False)
+                        # Convert all bytes columns to string for preview
+                        safe_result = result.copy()
+                        for col in safe_result.columns:
+                            if safe_result[col].dtype == object:
+                                safe_result[col] = safe_result[col].apply(
+                                    lambda x: x.decode('utf-8', errors='replace') if isinstance(x, bytes) else x
+                                )
+
+                        result_preview = safe_result.head(5).to_markdown(index=False)
 
                 print(result_preview)
                 executed_queries.add(sql_text)
