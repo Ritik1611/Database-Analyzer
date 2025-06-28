@@ -1,9 +1,10 @@
 import os
 import re
+import time
 from openai import OpenAI
 from db import run_sql
 from logger import log, fetch_logs_for_table, format_logs_as_context
-import time
+import pandas as pd
 
 client = OpenAI(api_key=os.getenv("MISTRAL_API_KEY"), base_url="https://api.mistral.ai/v1")
 model_id = "mistral-small-latest"
@@ -38,9 +39,20 @@ SYSTEM_PROMPT = [
 ]
 
 def extract_table_name(schema: str) -> str:
-    # Tries to extract table name from CREATE TABLE lines
     match = re.search(r"CREATE\s+TABLE\s+(\w+)", schema, re.IGNORECASE)
     return match.group(1) if match else "unknown_table"
+
+def clean_cell(val):
+    if isinstance(val, bytes):
+        try:
+            return val.decode("utf-8", errors="replace")
+        except:
+            return "<binary>"
+    elif isinstance(val, (list, tuple)):
+        return str([clean_cell(v) for v in val])
+    elif val is None:
+        return ""
+    return str(val)
 
 def process_schema_chunks(chunks, start_index=0):
     for step, schema in enumerate(chunks[start_index:], start=start_index):
@@ -54,14 +66,13 @@ def process_schema_chunks(chunks, start_index=0):
 
         while not table_done and rounds < 5:
             rounds += 1
-            current_step = step
 
             messages = SYSTEM_PROMPT + [{
                 "role": "user",
                 "content": f"Schema:\n{schema.strip()}\n\nPrevious analysis:\n{prior_context}"
             }]
 
-            time.sleep(1.1)
+            time.sleep(1.1)  # Mistral rate limit
 
             response = client.chat.completions.create(
                 model=model_id,
@@ -71,13 +82,14 @@ def process_schema_chunks(chunks, start_index=0):
             msg = response.choices[0].message.content
             print(f"\nStep {step+1} - Round {rounds}\n{msg}")
 
-            sql = re.search(r"SQL:\s*```sql\s*(.*?)\s*```", msg, re.DOTALL | re.IGNORECASE)
-            if not sql:
-                sql = re.search(r"SQL:\s*(SELECT .*?)(?:\n|$)", msg, re.DOTALL | re.IGNORECASE)
+            sql_match = re.search(r"SQL:\s*```sql\s*(.*?)\s*```", msg, re.DOTALL | re.IGNORECASE)
+            if not sql_match:
+                sql_match = re.search(r"SQL:\s*(SELECT .*?)(?:\n|$)", msg, re.DOTALL | re.IGNORECASE)
+
             explanation = re.search(r"Explanation:\s*(.*)", msg, re.DOTALL | re.IGNORECASE)
             error = re.search(r"Error:\s*(.*)", msg, re.DOTALL | re.IGNORECASE)
 
-            sql_text = sql.group(1).strip().rstrip(";") if sql else None
+            sql_text = sql_match.group(1).strip().rstrip(";") if sql_match else None
             explanation_text = explanation.group(1).strip() if explanation else ""
             error_text = error.group(1).strip() if error else ""
 
@@ -96,21 +108,17 @@ def process_schema_chunks(chunks, start_index=0):
                     if isinstance(result, str):
                         result_preview = result
                     else:
-                        # Convert all bytes columns to string for preview
                         safe_result = result.copy()
                         for col in safe_result.columns:
-                            if safe_result[col].dtype == object:
-                                safe_result[col] = safe_result[col].apply(
-                                    lambda x: x.decode('utf-8', errors='replace') if isinstance(x, bytes) else x
-                                )
+                            safe_result[col] = safe_result[col].apply(clean_cell)
 
                         result_preview = safe_result.head(5).to_markdown(index=False)
 
                 print(result_preview)
                 executed_queries.add(sql_text)
-                log(current_step, sql_text, str(result), explanation_text, error_text)
+                log(step, sql_text, str(result), explanation_text, error_text)
             else:
-                log(current_step, None, None, explanation_text, error_text)
+                log(step, None, None, explanation_text, error_text)
 
             if "Next table?" in msg:
                 table_done = True
